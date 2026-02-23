@@ -1,0 +1,10 @@
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Programming 2\bin\Debug\Programming 2.exe.config
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Programming 2\bin\Debug\Programming 2.exe
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Programming 2\bin\Debug\Programming 2.pdb
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Programming 2\obj\Debug\Programming 2.csproj.AssemblyReference.cache
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Programming 2\obj\Debug\Programming_2.Form1.resources
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Programming 2\obj\Debug\Programming_2.Properties.Resources.resources
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Programming 2\obj\Debug\Programming 2.csproj.GenerateResource.cache
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Programming 2\obj\Debug\Programming 2.csproj.CoreCompileInputs.cache
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Programming 2\obj\Debug\Programming 2.exe
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Programming 2\obj\Debug\Programming 2.pdb

@@ -1,0 +1,10 @@
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Fibonacci\obj\Debug\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Fibonacci\obj\Debug\Fibonacci.Form1.resources
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Fibonacci\obj\Debug\Fibonacci.Properties.Resources.resources
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Fibonacci\obj\Debug\Fibonacci.csproj.GenerateResource.cache
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Fibonacci\obj\Debug\Fibonacci.pdb

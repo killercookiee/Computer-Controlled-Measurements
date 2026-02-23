@@ -1,0 +1,3 @@
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Programming 2\obj\Debug\Hello_world.csproj.AssemblyReference.cache
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Programming 2\obj\Debug\Programming 2.exe
+C:\Users\diak\source\repos\Computer-Controlled-Measurements\Programming 2\obj\Debug\Programming 2.pdb
